@@ -15,9 +15,7 @@ PROGRAM USE
   Input your pickup and dropoff locations. 
   For a general estimate of eta at any given time, opt not to input data about the nearest bus. For a specific estimate (if the user is waiting at the bus stop) input data about the nearest bus. 
   The program will deliver an estimated wait time, travel time, and combined trip time, as well as a normal curve showing the distribution of trip time.
-
-TO RUN
-  
+ 
 
 FUTURE IMPROVEMENTS
   Develop an automated data collection program.
